@@ -156,7 +156,7 @@ input {
 }
 
 input[type="text"] {
-    width: 64%;
+    width: 100%;
     border: 1px inset #dddddd;
     padding: 5px 0 5px 10px;
 }
@@ -175,7 +175,7 @@ input[type="submit"]:hover {
 }
 
 textarea {
-    width: 64%;
+    width: 100%;
     border: 1px inset #dddddd;
     margin: 5px 0 10px;
     padding: 5px 5px 10px;
