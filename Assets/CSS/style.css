@@ -230,4 +230,9 @@ textarea {
         float: none;
         margin: 10px auto;
     }
+
+    .imgContainer {
+        float: none;
+        margin: 20px auto 10px;
+    }
 }
