@@ -236,3 +236,13 @@ textarea {
         margin: 20px auto 10px;
     }
 }
+
+@media screen and (max-width: 768px) {
+    .navBar {
+        width: 90%;
+    }
+
+    .content {
+        width: 90%;
+    }
+}
